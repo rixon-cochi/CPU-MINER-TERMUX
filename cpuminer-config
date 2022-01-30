@@ -1,17 +1,38 @@
 #!/bin/bash
 #clear
+bash log
 apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev zlib1g-dev make g++ -y
 
 clear
 
+bash log
+
 wget https://github.com/maribun20/cpuminer-multi-arm-x64/releases/download/cpuminer-multi_arm_x64/cpuminer-multi-arm_v8-x64.tar.gz
+
+clear
+
+bash log
 
 chmod +x  cpuminer-multi-arm_v8-x64.tar.gz
 
 clear
 
+bash log
+
 tar xf cpuminer-multi-arm_v8-x64.tar.gz
 
 clear
 
+bash log
+
 mv 'SOFTWARE MINER' CPU-MINER
+
+clear
+
+bash log
+
+xdg-open https://youtube.com/c/HYDRAGAMING4U
+
+clear
+
+bash log
