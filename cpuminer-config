@@ -13,3 +13,5 @@ clear
 tar xf cpuminer-multi-arm_v8-x64.tar.gz
 
 clear
+
+mv 'SOFTWARE MINER' CPU-MINER
