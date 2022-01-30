@@ -1,0 +1,7 @@
+!#/bin/bash
+#crypto coin mining
+#mobile cpu mining termux
+apt-get update -y
+clear
+apt-get upgrade -y
+clear
