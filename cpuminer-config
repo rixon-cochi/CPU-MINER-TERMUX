@@ -1,0 +1,23 @@
+#!/bin/bash
+#clear
+apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev zlib1g-dev make g++ -y
+clear
+
+wget https://github.com/maribun20/cpuminer-multi-arm-x64/releases/download/cpuminer-multi_arm_x64/cpuminer-multi-arm_v8-x64.tar.gz -y
+
+clear
+
+chmod +x  cpuminer-multi-arm_v8-x64.tar.gz
+
+clear
+
+tar xf cpuminer-multi-arm_v8-x64.tar.gz -y
+
+clear
+
+cd 'SOFTWARE MINER' && ls
+chmod +x cpuminer
+
+
+
+
