@@ -5,4 +5,3 @@
 cd CPU-MINER && ls
 chmod +x cpuminer
 clear
-bash log
