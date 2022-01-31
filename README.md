@@ -1,1 +1,3 @@
 ## CPU-MINER-TERMUX
+
+SOON 🤗🤗🤗
